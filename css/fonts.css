@@ -1,0 +1,22 @@
+ @font-face {
+    font-family: "Montserrat-Bold"; /* Имя шрифта */
+    src: url(./fonts/Montserrat-Bold.ttf); /* Путь к файлу со шрифтом */
+ }
+  @font-face {
+    font-family: "DroidSerif-Italic"; /* Имя шрифта */
+    src: url(./fonts/DroidSerif-Italic.ttf); /* Путь к файлу со шрифтом */
+ }
+  @font-face {
+    font-family: "Montserrat-Bold"; /* Имя шрифта */
+    src: url(./fonts/Montserrat-Bold.ttf); /* Путь к файлу со шрифтом */
+ }
+ @font-face {
+    font-family: "ThirstyScriptExtraBoldDemo"; /* Имя шрифта */
+    src: url(./fonts/ThirstyScriptExtraBoldDemo.otf); /* Путь к файлу со шрифтом */
+ }
+ @font-face {
+    font-family: "Montserrat-Regular"; /* Имя шрифта */
+    src: url(./fonts/ Montserrat-Regular.otf); /* Путь к файлу со шрифтом */
+ }
+
+ 
